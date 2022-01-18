@@ -15,7 +15,7 @@ public:
 
         vector<char> symbols;
         int n;
-        cout << "Lenght: ";
+        cout << "Length: ";
         cin >> n;
 
         int choise;
